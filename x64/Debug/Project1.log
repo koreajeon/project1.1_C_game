@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\KOSTA\project\project1.1_C_game\Project1\main.cpp(7,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\KOSTA\project\project1.1_C_game\Project1\main.cpp(16,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  header.cpp
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> C:\Users\KOSTA\project\project1.1_C_game\Project1\x64\Debug\Project1.exe
